@@ -1,7 +1,8 @@
 <h1 align="center">Hi there👋, I'm Ayesha Shabbir </h1>
 <h3 align="center">I am a passionate Web Developer from Pakistan</h3>
 
-
+<br>
+<br>
 
 - 🔭 I’m currently pursuing **Final Year Data Science**  
 - 🌱 I’m currently learning **Full Stack Development**  
