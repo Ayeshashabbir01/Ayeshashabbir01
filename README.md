@@ -12,7 +12,7 @@
 
         - 💬 Ask me about **python,Html,Css,Javascript,java,Machine Learning,Deep learning **
 
-        - 📫 How to reach me **aishashabbirdatasci207@gmail.com**
+        - 📫 How to reach me *aishashabbirdatasci207@gmail.com*
 
         <h3 align="left">Reach Me:</h3>
         <p align="left">
