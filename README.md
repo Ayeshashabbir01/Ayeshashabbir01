@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing **Final Year Data Science**  
 - 🌱 I’m currently learning **Full Stack Development**  
-- 👨‍💻 My portfolio website [Visit My Portfolio](https://example.com)  
+- 👨‍💻 My portfolio website [Visit My Portfolio]([https://example.com](https://github.com/Ayeshashabbir01/Portfolio.git))  
 - 💼 I have **6 months internship** at **MHB Pvt. Ltd.** and still working with them.  
 - 📫 How to reach me: <a href="mailto:aishashabbirdatasci207@gmail.com">aishashabbirdatasci207@gmail.com</a>  
 
