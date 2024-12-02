@@ -49,9 +49,4 @@
 
 ---
 
-<h3>✨ Projects & Contributions:</h3>
-<ul>
-  <li><strong>Project 1:</strong> Description of the project</li>
-  <li><strong>Project 2:</strong> Description of the project</li>
-  <li><strong>Contribution:</strong> Open-source or volunteer work</li>
-</ul>
+
