@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing **Final Year in Data Science**  
 - 🌱 I’m currently learning **Full Stack Development**  
-- 👨‍💻 My portfolio: [Visit My Portfolio](https://github.com/Ayeshashabbir01/Portfolio.git)
+- 👨‍💻 [Visit My Portfolio](https://sticky-jori-techinnovations-0c5d08ff.koyeb.app/)
 - 💼 Experience: **6 months internship** at **MHB Pvt. Ltd.** (currently working)  
 - 📫 Reach me at: <a href="mailto:aishashabbirdatasci207@gmail.com">aishashabbirdatasci207@gmail.com</a>  
 
