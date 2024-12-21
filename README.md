@@ -42,7 +42,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <!-- YouTube -->
-<a href="(https://www.youtube.com/@AyeshaShabbir-k1c)" target="_blank">
+<a href="https://www.youtube.com/@AyeshaShabbir-k1c" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="30" width="40" />
 </a>
 
