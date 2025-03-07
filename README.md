@@ -1,5 +1,3 @@
-
-
 ---
 
 # Hi there! 👋 I'm Ayesha Shabbir  
@@ -7,12 +5,12 @@
 
 ---
 
-## About Me  
+
 I have been learning to code for two years, starting with front-end technologies like **HTML, CSS, JavaScript, React, and Tailwind CSS**. I also completed a **6-month internship at MHB Pvt. Ltd.** Now, I am focusing on **backend development using Django and Python**, building scalable and efficient web applications.
 
 - 🌍 **Based in:** Sadiq Abad  
 - 🖥️ **Portfolio:** [MyPortfolio](http://sticky-jori-techinnovations-0c5d08ff.koyeb.app/)  
-- 📬 **Email:** [aishashabbirdatasci207@gmail.com](mailto:aishashabbirdatasci207@gmail.com)  
+- 📥 **Email:** [aishashabbirdatasci207@gmail.com](mailto:aishashabbirdatasci207@gmail.com)  
 - 🚀 **Current Project:** [Restaurant Recommendation System](http://github.com/Ayeshashabbir01/Resturant-recomendation-system.git)  
 - 🧠 **Currently Learning:** Full Stack Development  
 - 🤝 **Open to Collaboration on Projects**  
@@ -53,9 +51,10 @@ I have been learning to code for two years, starting with front-end technologies
 
 <a href="http://www.github.com/Ayeshashabbir01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeshashabbir01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
-<a href="http://www.github.com/Ayeshashabbir01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ayeshashabbir01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" /></a>  
+<a href="http://www.github.com/Ayeshashabbir01">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayeshashabbir01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
+</a>  
 
 <a href="https://github.com/Ayeshashabbir01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshashabbir01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>  
 
 ---
-
