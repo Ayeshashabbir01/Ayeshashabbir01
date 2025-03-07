@@ -1,12 +1,12 @@
 
-<h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayesha Shabbir
+
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayesha Shabbir
 ======================================================================================================================================
 
 <h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
-web developer
+
 -------------
 
 I have been learning to code for two years, starting with front-end technologies like HTML, CSS, JavaScript, React, and Tailwind CSS and also 6 months internship at MHB Pvt. Ltd. Now, I am focused on backend development using Django and Python, building scalable and efficient web applications.
