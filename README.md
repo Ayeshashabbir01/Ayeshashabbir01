@@ -1,53 +1,43 @@
-<h1 align="center">Hi there 👋, I'm Ayesha Shabbir</h1>
+
 <h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
-<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayesha Shabbir
+======================================================================================================================================
 
-- 🔭 I’m currently pursuing **Final Year in Data Science**  
-- 🌱 I’m currently learning **Full Stack Development**  
-- 👨‍💻 My portfolio: [Visit My Portfolio](https://sticky-jori-techinnovations-0c5d08ff.koyeb.app/)
-- 💼 Experience: **6 months internship** at **MHB Pvt. Ltd.** (currently working)  
-- 📫 Reach me at: <a href="mailto:aishashabbirdatasci207@gmail.com">aishashabbirdatasci207@gmail.com</a>  
+<h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
----
+web developer
+-------------
 
-<h3>💬 Ask me about:</h3>
-<ul>
-  <li>🐍 <strong>Python</strong></li>
-  <li>🎨 <strong>HTML & CSS</strong></li>
-  <li>⚙️ <strong>JavaScript</strong></li>
-  <li>☕ <strong>Java</strong></li>
-  <li>🤖 <strong>Machine Learning</strong></li>
-  <li>🧠 <strong>Deep Learning</strong></li>
-</ul>
+I have been learning to code for two years, starting with front-end technologies like HTML, CSS, JavaScript, React, and Tailwind CSS and also 6 months internship at MHB Pvt. Ltd. Now, I am focused on backend development using Django and Python, building scalable and efficient web applications.
 
----
+* 🌍  I'm based in Sadiq Abad
+* 🖥️  See my portfolio at [MyPortfolio](http://sticky-jori-techinnovations-0c5d08ff.koyeb.app/)
+* ✉️  You can contact me at [aishashabbirdatasci207@gmail.com](mailto:aishashabbirdatasci207@gmail.com)
+* 🚀  I'm currently working on [Restuarant Recomendation System](http://github.com/Ayeshashabbir01/Resturant-recomendation-system.git)
+* 🧠  I'm learning Full Stack Development
+* 🤝  I'm open to collaborating on Projects
 
-<h3>🌐 Connect with me:</h3>
+### Skills
+
+
 <p align="left">
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/aishashabbir" target="_blank">
-    <img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" height="30" width="40" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://instagram.com/ayesha_shabbir4" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <!-- Email -->
-  <a href="mailto:aishashabbirdatasci207@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/Ayeshashabbir01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <!-- YouTube -->
-<a href="https://www.youtube.com/@AyeshaShabbir-k1c" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="30" width="40" />
-</a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
----
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/Ayeshashabbir01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ayesha_shabbir4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/user:26334553" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@AyeshaShabbir-k1c" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Ayeshashabbir01"><img src="https://github-readme-stats.vercel.app/api?username=Ayeshashabbir01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ayeshashabbir01's GitHub stats" /></a>
+
+<a href="http://www.github.com/Ayeshashabbir01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeshashabbir01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Ayeshashabbir01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ayeshashabbir01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Ayeshashabbir01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshashabbir01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
